@@ -1,0 +1,321 @@
+
+
+ @media screen and (max-width:991px){
+    header{
+        padding: 0 100px;
+    }
+    .banner{
+        padding: 120px 0;
+    }
+    .banner-para{
+        width: 100%;
+    }
+    .our-sponser{
+        padding: 100px 0;
+    }
+    .sponser-list li{
+        width: 50%;
+        padding: 15px 25px;
+    }
+    .facilities {
+        padding: 100px 0;
+    }
+    .facility-top{
+        text-align: center;
+    }
+    .facility-para{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .spoilertop-h2{
+        width: 100%;
+    }
+    .spoilertop-para {
+        width: 100%;
+    }
+    .finishline{
+        padding: 100px 0;
+    }
+    .festivelbottom-block{
+        width: 50%;
+        float: left;
+        padding: 0 50px 50px;
+
+   
+    }
+    .finishchild-right{
+        padding: unset;
+         }
+         .finishchildright-h2 {
+            font-size: 35px;
+            line-height: 45px;
+            margin-bottom: 20px;
+         }
+         .finishchild-left img{
+            width: 80%;
+         }
+    .finishchildright-para{
+        width: 80%;
+    }
+    .intrested-inner{
+        height: 680px;
+    }
+    .intrested-content{
+        left: 15px;
+    }
+    .intrested-right{
+        top:-177px
+    }
+    .event{
+        padding: 100px 0;
+    }
+    
+    footer{
+        padding: 100px 0;
+    }
+    .row{
+        width: 33.33%;
+        float: left;
+        margin-bottom: 40px;
+    }
+
+}
+
+ @media screen and (max-width:767px){
+ 
+   
+    header{
+        padding: 20px 100px;
+    
+    }
+    .menu{width:100%;
+        padding: 20px;
+        background-color: #ccc;
+        position: absolute;
+        left: 0;
+        top:74px;
+       
+       
+        }
+        .menu li{
+            float: none;
+            text-align: left;
+            padding: 10px;
+        }
+        .menu li a{
+        
+          color: #000;
+         
+          }
+          .menu-bar{
+            display: block;
+            position: absolute;
+            right: 22px;
+            height: 4px;
+            top: 20px;
+          }
+          .banner {
+            padding: 50px 0;
+          }
+          .banner-heading {
+            font-size: 43px;
+            line-height: 53px;
+            width: 100%;
+          }
+          .sponser-list li {
+            width: 100%;
+            margin-bottom: 20px;
+          }
+          .festivelbottom-block {
+            width: 100%;
+            margin-left: 100px;
+          }
+          .spoilerbg-cont{
+            font-size: 80px;
+          }
+          .finishchild-left{
+            width: 100%;
+            margin-bottom: 40px;
+          }
+          .finishchild-right {
+            width: 100%;
+          }
+          .event-left{
+            width: 100%;
+            margin-bottom: 50px;
+          }
+          .event-right {
+            width: 100%;
+            padding: unset;
+          }
+          .spoilerbg-cont {
+            font-size: 100px;
+            line-height: 110px;
+        }
+            .intrested-left {
+                width: 100%;
+            }
+          .intrested-right {
+            top: 322px;
+            width: 100%;
+            left: 35%;
+        }
+          
+
+        .sports-img{
+            width: 60%;
+        }
+
+          .intrested-h2 {
+            font-size: 30px;
+          }
+          .intrestbg {
+            width: 40%;
+          }
+          .row {
+            width: 100%;
+          }
+          .footer-inner.clearfix{
+            text-align: center;
+          }
+          ul.social-icon {
+            margin-left: 275px;
+          }
+          .newsletter-para{
+            width: 100%;
+        
+        }
+        } 
+
+
+        @media screen and (max-width:320px){
+
+          header {
+            width: 100%;
+            padding: 20px 10px;}
+          
+            .banner-heading {
+              font-size: 20px;
+              line-height: 30px;
+              width: 100%;
+          }
+          /* oursponserstart */
+          .our-sponser {
+            padding: 50px 0;
+          }
+
+          .oursponser-heading{
+            font-size: 20px;
+            margin-bottom: 25px;
+          }
+          /* oursponserend */
+
+          .facilities{
+            padding: 50px 0;
+          }
+          .facility-heading{
+            font-size: 20px;
+            margin-bottom: 25px;
+
+        }
+        .facility-top {
+          margin-bottom: 50px;
+        }
+        .festivelbottom-heading{
+            font-size: 20px;
+        }
+        .festivelbottom-para{
+          width: 100%;
+        }
+
+       
+        .festivelbottom-block{
+          margin: 0;
+          padding: 0 0 30px;
+        }
+        .finishline{
+          padding: 50px 0;
+        }
+        .finishchildright-heading{
+          font-size: 20px;
+          line-height: 30px;
+          margin-bottom: 25px;
+
+        }
+        .finishchildright-para {
+          width: 100%;
+          margin-bottom: 25px;
+        }
+        .spoilerfestivel{
+          padding: 50px 0;
+        }
+        .spoilertop{
+          margin-bottom: 40px;
+        }
+
+        .spoilertop-heading{
+          font-size: 20px;
+          line-height: 30px;
+          width: 100%;
+        }
+        .spoilerbg-cont{
+          font-size: 35px;
+          line-height: 45px;
+          padding: unset;
+        }
+
+        .event{
+          padding: 50px 0;
+        }
+        .eventleft-heading {
+          font-size: 15px;
+          line-height: 25px;
+        }
+        .eventleft-para {
+          width: 100%;
+        }
+        .morninghead-heading {
+          font-size: 15px;
+          
+        }
+        .morninghead-span{
+          font-size: 15px;
+          display: inline-block;
+
+        }
+        .morning-para{
+          width: 100%;
+        }
+        .intrested-festivel {
+          padding: 50px 0;
+        }
+        .intrested-inner {
+          height: 340px;
+          padding: 50px 0 50px 50px;
+      }
+      .intrested-content{
+        left: 0;
+      }
+      .intrested-heading {
+        font-size: 20px;
+        width: 100%;
+      }
+      .intrested-right{
+        top: 175px;
+    width: 100%;
+    left: 35%;
+      }
+      .intrestbg{
+        width: 50%;
+      }
+      footer{
+        padding: 50px 0;
+      }
+      .footer-para{
+        width: 100%;
+        font-size: 10px;
+      }
+      ul.social-icon {
+        margin: 0;
+      }
+    }
